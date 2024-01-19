@@ -29,3 +29,10 @@ Preencher os Requisitos com os dados indicados no Checklist do nosso planner. Is
 Enviar para homologação;
 
 Chefia da Unidade Superior aceita e o PE passa a entrar em execução.
+
+PADRÃO DO TÍTULO DETALHAMENTO: 
+
+ENTREGA ESTRATÉGICA - CÓDIGO - NOME DA ENTREGA ESTRATÉGICA NA PLANILHA PLANO DE ENTREGAS PDG 2024;
+PROJETO INTERNO - NOME DA ENTREGA NA PLANILHA PLANO DE ENTREGAS PDG 2024 (Verificar se está vinculada ou não a uma entrega estratégica OU a um projeto interno geral da unidade superior. Proceder com o vínculo correto)
+SUSTENTAÇÃO/ROTINA - NOME DA ENTREGA NA PLANILHA PLANO DE ENTREGAS PDG 2024 (Verificar se está vinculada a entrega superior, estratégica ou interna. Proceder com o vínculo correto)
+PADRÃO DOS REQUISITOS: IGUAL CHECKLIST
