@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Bem vindo ao Manual PGD PETRVS!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Começamos o ano com grandes novidades e a maior delas é o lançamento do projeto-piloto do Programa de Gestão e Desempenho (PDG) na Seges/MGI. O novo PGD foi desenvolvido pela DINOV e por nossa equipe da DTGES, com base no sistema Petrvs da PRF, e traz uma nova lógica de entregas que nós da DTGES vamos utilizar em primeira mão. Por isso, preparamos esse passo-a-passo para apresentar o PGD Petrvs, com um passo-a-passo para você! 
 
 .. note::
 
-   This project is under active development.
+   Importante! Antes de utilizar o sistema, https://mtegovbr.sharepoint.com/:u:/r/sites/CGPROGerencial/SitePages/PGD-na-DTGES.aspx?csf=1&web=1&e=CaLPEZ
 
 Contents
 --------
 
 .. toctree::
+   :hidden:
+   :titlesonly:
+   
+   Manual PGD/
 
-   usage
-   api
+   
