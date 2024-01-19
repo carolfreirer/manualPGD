@@ -37,7 +37,7 @@ templates_path = ['_templates']
 
 html_theme = 'furo'
 html_title = ""
-html_logo = 'pen_logo_sem_fundo.png'
+html_logo = ""
 html_theme_options = {
     'navigation_depth': 5,
     

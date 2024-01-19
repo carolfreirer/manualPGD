@@ -14,6 +14,8 @@ Contents
    :hidden:
    :titlesonly:
    
-   Manual PGD/index
+   PETRVS/index
+   Sobre_o_PGD/index
+
 
    
