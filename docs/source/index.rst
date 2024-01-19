@@ -1,4 +1,4 @@
-Bem vindo ao Manual PGD PETRVS!
+.srBem vindo ao Manual PGD PETRVS!
 ===================================
 
 Começamos o ano com grandes novidades e a maior delas é o lançamento do projeto-piloto do Programa de Gestão e Desempenho (PDG) na Seges/MGI. O novo PGD foi desenvolvido pela DINOV e por nossa equipe da DTGES, com base no sistema Petrvs da PRF, e traz uma nova lógica de entregas que nós da DTGES vamos utilizar em primeira mão. Por isso, preparamos esse passo-a-passo para apresentar o PGD Petrvs, com um passo-a-passo para você! 
@@ -14,6 +14,6 @@ Contents
    :hidden:
    :titlesonly:
    
-   Manual PGD/
+   Manual PGD/index
 
    
