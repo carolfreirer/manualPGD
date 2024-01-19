@@ -2,21 +2,27 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = ''
+copyright = '2022, MGI/SEGES/DTGES/CGESP'
+author = 'MGI/SEGES/DTGES/CGESP'
+project_copyright = 'Manual Usuário Básico'
+version = '1.0'
+release = ''
 
-release = '0.1'
-version = '0.1.0'
 
 # -- General configuration
 
 extensions = [
     'sphinx.ext.duration',
+    "sphinx.ext.extlinks",
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    "sphinx.ext.mathjax",
+    "sphinx.ext.todo",
+    "sphinx.ext.viewcode",
+
 ]
 
 intersphinx_mapping = {
@@ -29,7 +35,13 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
+html_title = ""
+html_logo = 'pen_logo_sem_fundo.png'
+html_theme_options = {
+    'navigation_depth': 5,
+    
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
