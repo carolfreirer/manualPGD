@@ -3,9 +3,9 @@
 # -- Project information
 
 project = ''
-copyright = '2022, MGI/SEGES/DTGES/CGESP'
-author = 'MGI/SEGES/DTGES/CGESP'
-project_copyright = 'Manual Usuário Básico'
+copyright = '2024, MGI/SEGES/DTGES/CGESP/CORED'
+author = 'MGI/SEGES/DTGES/CGESP/CORED'
+project_copyright = 'Manual PGD 2.0'
 version = '1.0'
 release = ''
 
