@@ -1,4 +1,7 @@
 Avaliação do Plano de Entregas
+====================================
+
+Avaliação do Plano de Entregas
 Nesse ponto, vamos supor que a Coordenação-Geral de Serviços aos Sistemas Estruturantes concluiu seu Plano de Entregas;
 
 O gestor da unidade acima, no caso a Diretoria de Informações, Serviços e Sistemas de Gestão, acessa o menu Avaliação→ Planos de Entrega;
