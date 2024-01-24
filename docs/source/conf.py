@@ -36,7 +36,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'furo'
-html_title = ""
+html_title = "Novo PGD"
 html_logo = "docs/source/_static/81114ccc-faf0-4547-b70b-c7680423e79f.png"
 html_theme_options = {
     'navigation_depth': 5,
