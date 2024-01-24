@@ -5,7 +5,7 @@ Começamos o ano com grandes novidades e a maior delas é o lançamento do proje
 
 .. note::
 
-   Importante! Antes de utilizar o sistema, https://mtegovbr.sharepoint.com/:u:/r/sites/CGPROGerencial/SitePages/PGD-na-DTGES.aspx?csf=1&web=1&e=CaLPEZ
+   Importante! Antes de utilizar o sistema, acesse nossa `intra! <https://mtegovbr.sharepoint.com/:u:/r/sites/CGPROGerencial/SitePages/PGD-na-DTGES.aspx?csf=1&web=1&e=CaLPEZ>`_
 
 Contents
 ---------
