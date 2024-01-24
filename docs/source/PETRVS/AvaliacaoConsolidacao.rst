@@ -1,3 +1,7 @@
+Avaliação dos Registros Consolidados
+======================================
+
+
 (Registros mensais de execução do Plano de Trabalho do Participante)
  
 
@@ -9,15 +13,15 @@ A chefia pode analisar novamente os planos, tecer comentários e por fim, clicar
 
 Os critérios de avaliação são:
 
-Não executado;
+- Não executado;
 
-Inadequado;
+- Inadequado;
 
-Adequado;
+- Adequado;
 
-Alto desempenho
+- Alto desempenho
 
-Excepcional
+- Excepcional
 
 Lembrando que a avaliação considerada ADEQUADA é o parâmetro comum e usual para avaliar o servidor que desempenhou suas atividades satisfatoriamente;
 
