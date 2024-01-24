@@ -11,7 +11,6 @@ Contents
 ---------
 
 .. toctree::
-   :hidden:
    :titlesonly:
    
    PETRVS/index
